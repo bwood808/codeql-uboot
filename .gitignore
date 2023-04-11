@@ -1,2 +1,2 @@
-# CodeQL compilation caches
+# CodeQL compilation ca        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}ches
 .cache/
